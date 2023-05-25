@@ -1,0 +1,63 @@
+.navbar-brand{
+
+    font-size: 25px;
+}
+.btn-light{
+    background-color: #ffffff;
+    color: #000000;
+}
+.btn-group{
+    margin-left: 20px;
+}
+.navbar{
+    border-bottom: 1px solid lightgray;
+}
+.margen{
+    margin-top: 70px;
+}
+.seg-ter{
+    margin-top: 10px;
+}
+.card{
+    margin: 40px auto;
+    width: 600px;
+}
+.card-header{
+    padding: .75rem 15px;
+}
+.titulo{
+    display: inline-block;
+}
+.btn-link{
+    float: right;
+    color: gray;
+    padding-right: 0px;
+}
+.card-body{
+    padding: 15px;
+}
+.comentario{
+    color: #CDCCCC;
+    display: inline-block;
+    width: 88%;
+}
+
+.row{
+padding: 5px;
+}
+.grid-image {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+  }
+  
+  .grid-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  
